@@ -1,0 +1,48 @@
+
+Core ideas:
+
+1. Voluntary choice is morally superior to coerced action.
+
+
+
+## Classical Sources
+
+**Immanuel Kant** - The foundational defender of this view:
+- *Groundwork for the Metaphysics of Morals* (1785) - His argument that moral worth requires acting from duty rather than inclination, and that autonomy is the basis of human dignity
+- *Critique of Practical Reason* (1788) - Further development of moral autonomy
+- *"What is Enlightenment?"* (1784) - The famous essay on intellectual freedom and self-determination
+
+**John Stuart Mill**:
+- *On Liberty* (1859) - Especially Chapter 3, "Of Individuality, as One of the Elements of Well-Being," where he argues that "He who does anything because it is the custom, makes no choice" and that moral faculties are only developed through free choice
+- *Utilitarianism* (1863) - His defense of higher pleasures and the development of individual character
+
+## Contemporary Philosophical Works
+
+**Alan Wertheimer** - *Coercion* (1987) - A comprehensive philosophical analysis of when choices are genuinely voluntary vs. coercive, and why this distinction matters morally.
+
+**Gerald Dworkin** - *The Theory and Practice of Autonomy* (1988) - Explores different conceptions of autonomy and their moral significance.
+
+**Joel Feinberg** - *Harm to Self* (1986) - Part of his four-volume work on moral and legal philosophy, focusing on paternalism and when intervention in voluntary choices is justified.
+
+**Harry Frankfurt** - Multiple influential essays:
+- "Freedom of the Will and the Concept of a Person" (1971)
+- "The Importance of What We Care About" (1988)
+- These explore what makes choices genuinely "ours" and when we're responsible for them
+
+## Historical Sources You Might Consider
+
+**Aristotle** - *Nicomachean Ethics*, Books III and X - On voluntary action and the conditions needed for moral responsibility.
+
+**John Locke** - *A Letter Concerning Toleration* (1689) and *Two Treatises of Government* (1689) - Early liberal arguments for the moral importance of consent and voluntary association.
+
+**Benjamin Constant** - *"The Liberty of the Ancients Compared with that of the Moderns"* (1819) - Influential essay distinguishing political participation from individual freedom.
+
+## Critiques Worth Engaging
+
+**Isaiah Berlin** - *"Two Concepts of Liberty"* (1958) - Challenges simple equations of freedom with moral value.
+
+**Gerald Dworkin** - *"Paternalism"* (1972) - When might coercion actually serve autonomy?
+
+**Alasdair MacIntyre** - *After Virtue* (1981) - Communitarian critique of liberal emphasis on individual choice.
+
+The Kant and Mill texts are absolutely essential for your project, as they provide the clearest philosophical articulations of why voluntary choice has special moral status. Wertheimer's *Coercion* would be particularly valuable for understanding contemporary debates about the boundaries between voluntary and coerced action.

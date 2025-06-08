@@ -1,0 +1,58 @@
+project:
+  type: book
+
+book:
+  title: "Self-Reliance"
+  author: "Shane Conway"
+  date: "1/14/2025"
+  chapters:
+    - index.qmd
+    - chapters/0_intro.qmd
+    - chapters/1_greek.qmd
+    - chapters/2_christianity.qmd
+    - chapters/3_buddhism.qmd
+    # - chapters/3_protestantism.qmd
+    - chapters/4_medieval_v2.qmd
+    - chapters/5_renaissance.qmd
+    - chapters/6_protestantism.qmd
+    - chapters/7_rousseau.qmd
+    - chapters/8_enlightenment.qmd
+    - chapters/9_rousseau.qmd
+    - chapters/10_american.qmd
+    - chapters/11_pragmatism.qmd
+    - chapters/12_marx.qmd
+    - chapters/13_frankfurtschool.qmd
+    - chapters/14_nietzsche.qmd
+    - chapters/15_existentialism.qmd
+    - chapters/16_cslewis.qmd
+    - chapters/17_republican.qmd
+    - chapters/18_freud.qmd
+    - chapters/19_neuroscience.qmd
+    - chapters/20_evolution.qmd
+    - chapters/21_voluntary.qmd
+    - chapters/_conclusion.qmd
+    
+    - references.qmd
+
+bibliography: self.bib
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true   # Allow users to toggle code visibility individually
+    code-tools: false # To hide all code blocks by default
+  pdf:
+    documentclass: scrbook
+    fontfamily: Alegreya
+    geometry: "paperwidth=5.5in, paperheight=8.5in, margin=0.8in"  # Paperback size with narrower margins
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+    code: false       # Set to `true` or `false` to control code visibility
+
+reference-location: block
+citation-location: document
