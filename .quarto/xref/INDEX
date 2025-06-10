@@ -106,5 +106,11 @@
   },
   "chapters/1_greek.qmd": {
     "1_greek.html": "aa20d296"
+  },
+  "chapters/21_legal.qmd": {
+    "21_legal.html": "090d294b"
+  },
+  "chapters/22_voluntary.qmd": {
+    "22_voluntary.html": "afaa95eb"
   }
 }
