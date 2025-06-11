@@ -32,7 +32,7 @@ book:
     - chapters/20_evolution.qmd
     - chapters/21_legal.qmd
     - chapters/22_voluntary.qmd
-    - chapters/_conclusion.qmd
+    - chapters/23_conclusion.qmd
     
     - references.qmd
 

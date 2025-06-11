@@ -2,7 +2,17 @@
 
 > Virtue or excellence is, as we have seen, concerned with emotions and actions.  When these are voluntary we receive praise and blame; when involuntary, we are pardoned and sometimes pitied.  Therefore, it is, I dare say, indispensable for a student of virtue to differentiate between voluntary and involuntary actions, and useful also for lawgivers, to help them in meting out honors and punishments. - Aristotle, Nicomachean Ethics, Book 3
 
+> Be yourself; no base imitator of another, but your best self...Listen to the inward voice and bravely obey that. - Emerson, "Self-Reliance"
+
 [Quote from "Free to Choose"]
+
+It has become fashionable to find esoteric explanations for human progress, to shun the standard canon.  But it is often the case that occam's razor applies, and the simplest explanation is also the best.
+
+
+## Emerson
+
+Perhaps no one is more closely associated with *self-reliance* than Ralph Waldo Emerson.
+
 
 ## Free to Choose
 
@@ -28,9 +38,7 @@ What about an old person's decision to have an assisted suicide?
 
 ## Individuals and Groups
 
-It hasn't always been the case that individuals possessed a sense of agency.  
-
-(@siedentop2014)
+It hasn't always been the case that individuals possessed a sense of agency.  (@siedentop2014)
 
 Even today, there's a huge gap between the West and the rest of the world. (@henrich2020)
 
@@ -39,3 +47,4 @@ Even today, there's a huge gap between the West and the rest of the world. (@hen
 
 What does it mean to have responsibility for your actions?  
 
+Does a person bear *more* responsibility if they are more intelligent?  
