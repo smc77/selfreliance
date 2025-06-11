@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "Self-Reliance"
+  title: "On Self-Reliance"
   author: "Shane Conway"
-  date: "1/14/2025"
+  date: today
   chapters:
     - index.qmd
     - chapters/0_intro.qmd
