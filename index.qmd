@@ -9,6 +9,74 @@
 > The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs.  
 > — John Stuart Mill, *On Liberty*
 
+This is a book about the proper value hierarchy of our world view.  It argues that what comes first matters, what underlies our systems influences everything above it.  
+
+This book is both a book of philosophical discussion, while also being within the genre of a History of Ideas. History of Ideas consider not just the philosophical works, but also the context that led to their invention along with the connections between the different schools of thought.  My intention is to make clear that these ideas have real world consequences.  
+
+When Descartes declared "I think therefore I am", he was fundamentally putting Man at the center of his universe.  This i what I mean by being individual-first.  After we peal back politics, culture, and even our familes, we are left by ourselves in the world.
+
+This comes down to the appropriate *frame of reference*.  (Sean Carroll, quantum...). Our perceptions are ultimately built on stories that we tell ourselves. 
+
+We can distinguish between *instincts* and *habits*, even though both are immediate.
+
+The free enterprise system rests on a system of laws, not the least of which apply to contracts; markets don't exist in a vacuum.
+
+Our laws sit on top of a cultural edifice.  
+
+Self-reliance relies on:
+
+* The existence of a self
+* Free will
+
+We take these things for granted in that if everything is fully determined, if we are not truly the arbiters of our own choices, then 
+
+Voluntary action should sit at the heart of our awareness.  Throughout our experiences, we should ask "what did I choose" rather than "what happened to me".  Life is about action.
+
+
+The communitarian perspective comes from a different world view.  Man was never naturally alone.
+
+
+Throughout most of civilized human history, people were raised around *klans*, and this is still the norm.
+
+
+So when we come from the individual-first worldview, we realize that the first question should be *what is my responsibility*.  We ask questions like *how can I live better* first, then questions like *how can I improve my community*.  The community-first perspective gravitates towards paternalism and totalitarianism.  
+
+
+Another underlying belief of this author is that we should not ignore common sense wisdom. 
+
+* G.E.Moore *A Defence of Common Sense* (1925)
+* Thomas Reid *Scottish Common Sense Realism*
+* Michael Polanyi *Personal Knowledge* (1958) and *The Tacit Dimension* (1966)
+
+* Critique: Churchland, w.r.t. folk psychology.
+
+What a common sense assessment should make clear is that culture is an optional facade.  All of our institutions, while undoubtedly important, are transient and can be removed.  But as individuals, we are the ultimate arbiters of our lives.
+
+Marx was wrong.  We are not primarily members of a class.
+
+[The movie "Trading Places"]
+
+
+Other themes:
+
+* Naturalism, self-sufficiency (Cameron Hanes)
+
+
+Being self-reliant does not mean being epistemologically relativistic. We are responsible for making the *right* choices.
+
+
+I should also make clear: when I say that human agency is primary, that does not mean that we should ignore experts. But when we are in doctor's office and they recommend a treatment, we should just know that we have an active role to play in the decision. We live with the consequences. While its foolhardy to expect that we can make equally informed decisions as experts, we still make decisions. 
+
+It's also important to know the boundaries of expertise. A macro economist is not the same kind of expert as a electrician because the domains of expertise differ in their capacity for elucidation. 
+
+When a public health official is making a decision that schools should be closed because of a pandemic, they should be taken seriously about the risks of spreading infections and the potential for harm. But they don't necessarily know the impact that the closed schools will have on the psychology and emotional development of the children, not the decreased productivity of parents and businesses that need to manage their children outside of the normal support systems. 
+
+
+
+
+
+
+
 Here are three voices across twenty-three centuries, united by a conviction that would have seemed bizarre to most of human history: that there exists something morally precious about actions that flow from genuine choice rather than external compulsion. This is not merely a philosophical curiosity—it is the foundation upon which our entire system of moral evaluation rests. When we feel regret, we experience it as evidence that we *could have done otherwise*. When courts assign punishment, they distinguish between voluntary and involuntary acts. When we praise courage or condemn cowardice, we assume that the agent possessed genuine alternatives.
 
 Yet this conviction—that voluntary choice is morally superior to coerced action—has never been more embattled than it is today. From every quarter come challenges to its foundations: religious critics who insist that fallen humanity requires divine grace, political theorists who reveal how social structures constrain individual agency, scientists who demonstrate that consciousness itself may be largely illusory. The question confronting us is whether anything remains of this ancient ideal under modern conditions, and whether it deserves to remain.
