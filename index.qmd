@@ -9,7 +9,15 @@
 > The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs.  
 > — John Stuart Mill, *On Liberty*
 
+Sapere Aude: The Courage to Think for Oneself
+
 This is a book about the proper value hierarchy of our world view.  It argues that what comes first matters, what underlies our systems influences everything above it.  
+
+This boils down to one simple truth: when we are free to make choices, then we have a responsibility over those choices.  With freedom comes personal responsibility.  And there is no greater good that individuals making free choices well.
+
+Indeed, the right choice to make in a given scenario is only knowable because individuals have made different choices over time.  Sometimes those decisions were made because of external or internal pressure.
+
+Making good decisions isn't always easy.  Doing well takes hard work.
 
 This book is both a book of philosophical discussion, while also being within the genre of a History of Ideas. History of Ideas consider not just the philosophical works, but also the context that led to their invention along with the connections between the different schools of thought.  My intention is to make clear that these ideas have real world consequences.  
 
@@ -97,6 +105,8 @@ Yet this conviction—that voluntary choice is morally superior to coerced actio
 ## I. The Heart of the Moral Universe
 
 It has become fashionable among intellectuals to seek esoteric explanations for human progress, to deconstruct the "narratives" upon which civilization rests. But perhaps the simplest explanation remains the truest: that societies which honor voluntary choice tend to flourish, while those that crush it tend to stagnate. The remarkable prosperity and freedom of the modern West did not emerge by accident—they are the fruit of ideas, particular ideas about the moral significance of individual agency.
+
+It is often taken for granted that Greek philosophy considered man's nature to be fundamentally social.
 
 Book III of Aristotle's *Nicomachean Ethics* (@aristotle1985) reflects extensively on what the philosopher saw as the intimate connection between virtue and voluntary action. For Aristotle, moral praise and blame made sense only when applied to actions that were genuinely chosen—performed with knowledge of the circumstances, originating from the agent's own will, and free from external compulsion. This insight, seemingly obvious to modern ears, was revolutionary in its implications: it suggested that the capacity for voluntary choice was what made human beings distinctively moral creatures.
 
